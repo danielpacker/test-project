@@ -1,2 +1,7 @@
 new file
+<<<<<<< HEAD
 mergeme4 change
+=======
+modified
+
+>>>>>>> parent of f555abf... Merge pull request #5 from danielpacker/mergeme1
